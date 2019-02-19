@@ -1,6 +1,6 @@
-# React Native vs Flutter slides
+# Crossplatform mobile development slides
 
-https://lesnitsky.github.io/crossplatform-mobile-development/
+https://lesnitsky.github.io/crossplatform-mobile-development-slides/
 
 ## Author
 
