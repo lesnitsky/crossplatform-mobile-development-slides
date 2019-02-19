@@ -12,6 +12,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "reveal-md": "^2.4.0"
+    "reveal-md": "^3.0.0"
   }
 }
