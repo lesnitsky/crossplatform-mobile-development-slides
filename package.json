@@ -3,15 +3,15 @@
   "version": "1.0.0",
   "description": "",
   "scripts": {
-    "start": "reveal-md slides.md --theme _assets/custom.css",
-    "pdf": "reveal-md slides.md --theme _assets/custom.css --print slides.pdf",
-    "build": "reveal-md SLIDES.md --theme custom.css --static --static-dirs=_assets",
+    "start": "reveal-md slides.md --theme theme/custom.css",
+    "pdf": "reveal-md slides.md --theme theme/custom.css --print slides.pdf",
+    "build": "reveal-md slides.md --theme theme/custom.css --static _site --static-dirs=theme",
     "gh-pages": "./publish.sh"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "reveal-md": "^3.0.0"
+    "reveal-md": "2.4.0"
   }
 }

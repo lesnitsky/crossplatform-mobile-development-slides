@@ -1,9 +1,8 @@
 git branch -D gh-pages \
 && git checkout --orphan gh-pages \
 && yarn build \
-&& touch _static/.nojekyll \
-&& git add _static \
+&& git add _site \
 && git commit -m \"build\" \
-&& git push origin `git subtree split --prefix _static gh-pages`:gh-pages --force \
-&& rm -rf _static \
+&& git push origin `git subtree split --prefix _site gh-pages`:gh-pages --force \
+&& rm -rf _site \
 && git checkout master
