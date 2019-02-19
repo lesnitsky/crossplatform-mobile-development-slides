@@ -5,7 +5,7 @@
   "scripts": {
     "start": "reveal-md slides.md --theme theme/custom.css",
     "pdf": "reveal-md slides.md --theme theme/custom.css --print slides.pdf",
-    "build": "reveal-md slides.md --theme theme/custom.css --static _site --static-dirs=theme",
+    "build": "reveal-md slides.md --theme theme/custom.css --static _static --static-dirs=theme",
     "gh-pages": "./publish.sh"
   },
   "keywords": [],
