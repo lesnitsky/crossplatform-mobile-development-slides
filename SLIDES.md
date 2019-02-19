@@ -41,7 +41,7 @@ Andrei Lesnitsky
 - ???
 - Sencha Touch <!-- .element: class="fragment" data-fragment-index="1" -->
 - Cordova <!-- .element: class="fragment" data-fragment-index="2" -->
-- Angulare ➡️ Ionic <!-- .element: class="fragment" data-fragment-index="3" -->
+- Angular ➡️ Ionic <!-- .element: class="fragment" data-fragment-index="3" -->
 
 ---
 
