@@ -12,7 +12,7 @@ Andrei Lesnitsky
 
 - EPAM 4.5 years <!-- .element: class="fragment" data-fragment-index="1" -->
 - The Rolling Scopes <!-- .element: class="fragment" data-fragment-index="2" -->
-- Self emplyed 5 month (Flutter, React, Node) <!-- .element: class="fragment" data-fragment-index="3" -->
+- Self emplyed 5 month (Flutter, React, Node, WebGL) <!-- .element: class="fragment" data-fragment-index="3" -->
 
 ---
 
